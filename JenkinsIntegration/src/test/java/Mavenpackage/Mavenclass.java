@@ -7,6 +7,6 @@ public class Mavenclass
 	@Test
 	public void TestNg()
 	{
-		System.out.println("God Is Great");
+		System.out.println("God Is Great Always");
 	}
 }
